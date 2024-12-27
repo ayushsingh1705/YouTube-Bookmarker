@@ -6,8 +6,11 @@ A Chrome extension that allows users to **bookmark timestamps** in YouTube video
 ##Demo
 ![img1](https://github.com/user-attachments/assets/226ba422-af56-47e3-8442-02affc63aec4)
 ![img2](https://github.com/user-attachments/assets/04981f07-927f-4c38-b4d4-d0f750579c25)
+For new video the bookmark section is empty.
 ![img3](https://github.com/user-attachments/assets/98d6b293-f815-4579-9824-25f23c4ffbd0)
+When revisiting the previous video, we again get to see the saved bookmarks.
 ![img4](https://github.com/user-attachments/assets/23b48b5e-b86d-4bf6-b90e-5b87f219ce36)
+On a page other than YouTube video page, it shows that the page is not a YouTube video page
 ![img5](https://github.com/user-attachments/assets/320e8703-375a-48dc-a8eb-4ef1428e75db)
 
 
